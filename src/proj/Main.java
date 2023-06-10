@@ -32,7 +32,8 @@ public class Main {
         System.out.println("Площадь: " + romb.getArea());
         System.out.println("Перекрию: " + romb.getPerimeter());
         // эта прПРРЫЛРПЫРЛg 
-        
+        //test
+
     }
 }
 
