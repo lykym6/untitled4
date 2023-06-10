@@ -31,7 +31,8 @@ public class Main {
         System.out.println("Длинна стороны: " + romb.getBase());
         System.out.println("Площадь: " + romb.getArea());
         System.out.println("Перекрию: " + romb.getPerimeter());
-        // эта прПРРЫЛРПЫРЛ
+        // эта прПРРЫЛРПЫРЛg 
+        
     }
 }
 
